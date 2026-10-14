@@ -58,6 +58,12 @@ get_weather.php?location=35.70,51.42
 - ژئوکدینگ معکوس: [Nominatim](https://nominatim.org/) / OpenStreetMap
 - فونت: [Vazirmatn](https://github.com/rastikerdar/vazirmatn)
 
+## 🌐 سازنده | Made by
+
+ساخته‌شده توسط **[تایمیت — timit.ir](https://timit.ir/)** — مرجع آموزش وردپرس فارسی و خدمات طراحی سایت، سئو و دیجیتال مارکتینگ. 💙
+
+Built by **[Timit — timit.ir](https://timit.ir/)** — Persian WordPress education, web design, SEO & digital marketing.
+
 ## 📄 License
 
 MIT — see [LICENSE](LICENSE).
