@@ -2,6 +2,8 @@
 
 داشبورد آب‌وهوای فارسی با رابط کاربری راست‌به‌چپ (RTL)، تم روشن/تاریک، تاریخ شمسی و پیش‌بینی چندروزه — بدون هیچ فریم‌ورکی، فقط با PHP و JavaScript خالص.
 
+![نمای اپ](docs/screenshot.png)
+
 A Persian (Farsi) RTL weather dashboard with dark/light theme, Jalali calendar, and multi-day forecasts — framework-free, just PHP and vanilla JavaScript.
 
 ## ✨ امکانات | Features
