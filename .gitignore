@@ -1,0 +1,9 @@
+# Cache directory (auto-created by get_weather.php)
+/cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
